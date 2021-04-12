@@ -1,0 +1,2 @@
+module load cellranger/3.0.2
+cellranger count --id=10X-sampleID --transcriptome=mm10 --fastqs=10X-fastq-folder --localmem 132
