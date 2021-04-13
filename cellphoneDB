@@ -1,0 +1,6 @@
+module load python3/3.7.1
+module load R/3.5.0
+python3 -m venv cpdb-venv
+source cpdb-venv/bin/activate
+ 
+cellphonedb method statistical_analysis cellphonedb_meta.txt yoursample_cellphonedb_count.txt --project-name yourprojectname --counts-data=gene_name
