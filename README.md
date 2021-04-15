@@ -10,6 +10,8 @@ cellRanger_count: script to run cellRanger; full documentation available at http
 
 scrublet: script to run scrublet; full documentation available at https://github.com/AllonKleinLab/scrublet 
 
+Seurat_integration: script to run standard Seuratv3 integration (Stuart T, Butler A, et al., 2019) on 4 mouse conditions; full documentation available at https://satijalab.org/seurat/archive/v3.1/integration.html
+
 cellphoneDB: script to run cellphoneDB; full documentation available at https://github.com/Teichlab/cellphonedb
 
 SUPPLEMENTAL FILES
