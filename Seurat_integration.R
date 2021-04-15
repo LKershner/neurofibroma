@@ -7,7 +7,7 @@
 #Lastly, I have commented out when the script has been modified for clarity from its exact original form. 
 #Some of the original directory and variable names corresponded to sample designations given by the gene expression and sequencing cores. 
 #These names often include extra information (e.g., sample submission date, sequencing date) and thus can be lengthy and confusing. 
-#Here, variable and directory names are shortened and simplified to the note only the sample group with no extraneous information (e.g., tumor, pretumor)
+#Here, variable and directory names are shortened and simplified to the note only the sample group with no extraneous information.
 
 #before running this, will need to take following steps in terminal
 #module load python/2.7.13
