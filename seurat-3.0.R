@@ -1,3 +1,6 @@
+#this is the Seurat v3 workflow for a single object. see https://satijalab.org/seurat/index.html for more information.
+#note that this is NOT the Seurat v3 integration script (standard or reference-based). those are uploaded separately
+
 library(devtools)
 library(Seurat)
 library(dplyr)
