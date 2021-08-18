@@ -22,4 +22,7 @@ SupplementalInfoMouseSamples.xlsx: Supplemental table (update) showing mouse sam
 
 Top50GenesCombined.txt: Top 50 marker genes for each cluster of the integrated mouse object as determined by Seurat's FindAllMarkers function
 
+barcode_to_groups.txt: group assignments for each barcode in the mouse integrated Seurat object
+
+barcode_to_clusters.txt: cluster assignments for each barcode in the mouse integrated Seurat object
 
