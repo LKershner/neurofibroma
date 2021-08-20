@@ -20,7 +20,7 @@ cellphoneDB: script to run cellphoneDB; full documentation available at https://
 
 SUPPLEMENTAL FILES
 
-SupplementalInfoMouseSamples.xlsx: Supplemental table (update) showing mouse sample information and cellRanger quality metrics output
+SupplementalInfoMouseSamples.xlsx: Supplemental table showing mouse sample information and cellRanger quality metrics output
 
 Top50GenesCombined.txt: Top 50 marker genes for each cluster of the integrated mouse object as determined by Seurat's FindAllMarkers function
 
