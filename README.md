@@ -28,5 +28,7 @@ barcode_to_groups.txt: group assignments for each barcode in the mouse integrate
 
 barcode_to_clusters.txt: cluster assignments for each barcode in the mouse integrated Seurat object
 
+UMAPembeds.txt: UMAP coordinates for each barcode in the mouse integrated Seurat object
+
 networks_1.2-fold: PDFs of differentially expressed gene networks for each cluster in tumor vs 7 month age-matched control (CellHarmony), fold change > 1.2
 
